@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: *Phạm Xuân Trung* 
+* ID: *BI12-458*
 * Group ID: *Your Group ID here*
 
